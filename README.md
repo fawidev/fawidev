@@ -1,6 +1,21 @@
 ## 🧑‍💻 About Me
 I’m a seasoned Senior Full Stack Software Engineer with over five years of hands-on experience building scalable, reliable applications and designing resilient system architectures. Consequently I have a deep passion for the Elixir and Phoenix ecosystem—especially API development, real‑time systems, and cloud integration.
 
+
+## 🏢 Companies I've Worked With
+
+🇺🇸 [**AppWork USA**](https://appworkco.com/meet-the-team/)
+Senior Full Stack Developer – Building scalable backend systems, microservices, and 3rd-party integrations using Elixir/Phoenix and React.
+
+🚖 [**Safeboda Riding App Uganda**](https://www.safeboda.com/)
+Senior Backend Engineer – Designed and maintained high-throughput Elixir microservices for ride-hailing and delivery operations across East Africa.
+
+🔗 [**ViewPro GIS Website USA**](https://www.viewprogis.com/) 
+Full Stack Developer – Developed interactive tools using Phoenix LiveView and real-time GIS data visualization.
+
+📸 [**Picsello Photography Platform USA**](https://www.picsello.com/)  
+Senior Elixir Engineer – Built LiveView-based scheduling, gallery uploads, email automations, and slots booking for photography shoots.
+
 ## 🧪 Expertise & Technical Skills
  ✅ Core Specializations
 
@@ -31,6 +46,7 @@ I’m a seasoned Senior Full Stack Software Engineer with over five years of han
 - Experimented with Phoenix LiveView during a proof‑of‑concept—impressed by Elixir’s concurrency, pattern‑matching and real‑time strengths.
 - Fell in love with Elixir—its elegance, reliability, and developer ergonomics became a daily passion.
 - Links https://www.viewprogis.com/
+<!-- [![ViewPro GIS](https://img.shields.io/badge/ViewPro_GIS-Explore-blue?style=for-the-badge&logo=googlemaps)](https://www.viewprogis.com/) --> 
 
 **2022–2023: Senior Elixir Engineer at Safeboda & Picsello**
 - At **Safeboda** — a rapidly growing ride-hailing & delivery super-app in East Africa. I worked on high‑throughput microservices with Elixir GenServers, RabbitMQ, Kafka, and GraphQL, enabling features like Plus and Saver ride tiers and B2B dashboards
